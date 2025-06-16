@@ -60,9 +60,7 @@ Designed a pair of scissors in **AutoCAD** using accurate real-world measurement
 
 ## 📬 Let's Connect!
 
-- 📧 Email: [your-email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🧑‍💻 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) *(if any)*  
+- 💼 LinkedIn:  https://www.linkedin.com/in/nayab-noor-/
 - 🌟 GitHub: [github.com/NayabNoor01](https://github.com/NayabNoor01)
 
 ---

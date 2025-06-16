@@ -54,7 +54,7 @@ Designed a pair of scissors in **AutoCAD** using accurate real-world measurement
 🎓 **Bachelor of Science – Mechatronics & Control Engineering**  
 🏫 *University of Engineering and Technology, Lahore*  
 📆 *2022 – 2026*  
-📊 *Current CGPA:* **3.117**
+
 
 ---
 
